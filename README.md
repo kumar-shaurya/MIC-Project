@@ -24,3 +24,14 @@ Used Scikit-learn library for processing the data.
 4. 20% into test set
 5. Trained the data on the rest 80%
 
+---
+
+## Accuracy
+Model acuuracy = 89.05%
+
+<img width="213" height="26" alt="image" src="https://github.com/user-attachments/assets/670480af-26b0-4db9-b23b-5b173035ab7c" />
+
+
+## NOTE
+
+U WILL HAVE TO PUT IN THE DATA SET WITH THE FILE NAME DATASET.CSV
