@@ -14,3 +14,13 @@ This repository contains the code for training a **Logistic Regression** model t
 Used pandas to format the data.
 
 Used Scikit-learn library for processing the data.
+
+---
+
+## Processing steps
+1. Cleaned data (removed the htmls tags etc)
+2. tokenised the words
+3. Split into 2 parts
+4. 20% into test set
+5. Trained the data on the rest 80%
+
